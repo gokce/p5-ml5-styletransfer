@@ -14,3 +14,6 @@ npm install
 ```
 npm start
 ```
+
+## License
+MIT, see LICENSE.md for details.
