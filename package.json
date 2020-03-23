@@ -1,0 +1,26 @@
+{
+  "name": "p5-ml5-styletransfer",
+  "version": "0.0.1",
+  "description": "Style Transfer sketch using p5.js and ml5.js",
+  "keywords": [
+    "p5js",
+    "ml5js",
+    "style transfer",
+    "machine learning"
+  ],
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "gokce",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokce/p5-ml5-styletransfer"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "eslint-config-p5js": "1.0.1"
+  }
+}
