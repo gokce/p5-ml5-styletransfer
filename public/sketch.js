@@ -2,7 +2,7 @@
 // https://github.com/ml5js/ml5-examples
 
 let style;
-let availableStyles = ["la_muse", "matta", "rain_princess", "scream", "udnie", "wave", "wreck", "matilde_perez", "mathura"]
+let availableStyles = ["la_muse", "matta", "rain_princess", "scream", "udnie", "wave", "zhangdaqian", "fuchun", "wreck", "matilde_perez", "mathura"]
 let currentStyle = 0;
 
 let styleImages = [];
